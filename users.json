@@ -1,0 +1,30 @@
+[
+  {
+    "username": "Bruno",
+    "password": "$2a$12$qqHhGzyKMamS9qT465nd/.kAu34pAdyR5MumRr9sO8UD34zloqqRa",
+    "secret": [
+      {
+        "title": "contraseña wifi",
+        "description": "Pedro123"
+      },
+      {
+        "title": "contraseña netflix",
+        "description": "clavenet123"
+      },
+      {
+        "title": "prueba",
+        "description": "secreto de prueba"
+      }
+    ]
+  },
+  {
+    "username": "bruno_tapia",
+    "password": "$2a$12$Es/ZgbuJNlVWC7xd96g5HeDkBV3KWg6.9IRkJTgYxAMzle4IECHtW",
+    "secret": [
+      {
+        "title": "clave_hbo",
+        "description": "clave_nueva123"
+      }
+    ]
+  }
+]
